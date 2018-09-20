@@ -4,7 +4,7 @@
 ## build FAQ
 
 ### python 3.6.5 with python3-dev for build exe
-PYTHON_CONFIGURE_OPTS="--enable-framework" pyenv install 3.6.0
+PYTHON_CONFIGURE_OPTS="--enable-framework" pyenv install 3.6.5
 
 ### electron 2.0.2
 npm install --runtime=electron --target=2.0.2
